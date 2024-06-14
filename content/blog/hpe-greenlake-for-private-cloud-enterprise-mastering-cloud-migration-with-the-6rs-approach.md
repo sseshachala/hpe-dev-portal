@@ -21,9 +21,9 @@ This post is the first part of a multipart series covering migrations in depth. 
 
 **Industry need and challenges in cloud migration** 
 
-As organizations strive to stay competitive, the shift towards cloud adoption becomes imperative. The need for scalable infrastructure, cost optimization, and enhanced operational efficiency drives this transformation. However, the migration journey is not without its obstacles. Developers and IT teams often grapple with:
+As organizations strive to stay competitive, the shift towards cloud adoption becomes imperative. The need for scalable infrastructure, cost optimization, and enhanced operational efficiency drives this transformation. However, the migration journey is not without its obstacles. Developers and IT teams often grapple with:C
 
-* **C**omplex legacy systems: Modernizing outdated and intricate legacy systems without disrupting business operations.
+* Complex legacy systems: Modernizing outdated and intricate legacy systems without disrupting business operations.
 * Data security concerns: Ensuring robust security measures to protect sensitive data during and after migration.
 * Operational continuity: Maintaining uninterrupted service delivery throughout the migration process.
 
@@ -63,14 +63,13 @@ HPE GreenLake for Private Cloud Enterprise is designed to tackle these challenge
 
 **5. Retire**
 
-*  **Goal:** Eliminate redundant or underutilized applications.
-*  **Strategy:** Use HPE GreenLake for Private Cloud Enterprise's tools for an exhaustive application assessment to identify and safely retire unnecessary applications.
-*  **Outcome:** Minimize costs and enhance overall efficiency by discontinuing the use of unneeded applications, freeing up resources for critical operations.
+* **Goal:** Eliminate redundant or underutilized applications.
+* **Strategy:** Use HPE GreenLake for Private Cloud Enterprise's tools for an exhaustive application assessment to identify and safely retire unnecessary applications.
+* **Outcome:** Minimize costs and enhance overall efficiency by discontinuing the use of unneeded applications, freeing up resources for critical operations.
 
   **6. Retain**
-
-*  **Goal:** Identify and maintain applications that are not suitable for cloud migration.
-*  **Strategy:** Utilize HPE GreenLake for Private Cloud Enterprise's tools for an in-depth risk and performance assessment to identify applications best kept off-cloud.
+* **Goal:** Identify and maintain applications that are not suitable for cloud migration.
+* **Strategy:** Utilize HPE GreenLake for Private Cloud Enterprise's tools for an in-depth risk and performance assessment to identify applications best kept off-cloud.
 * O**utcome:** Ensure sustained application performance and security by making informed decisions on which applications to keep in their current environment.
 
 **Pilots/POC**
