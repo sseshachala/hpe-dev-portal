@@ -67,10 +67,10 @@ HPE GreenLake for Private Cloud Enterprise is designed to tackle these challenge
 * **Strategy:** Use HPE GreenLake for Private Cloud Enterprise's tools for an exhaustive application assessment to identify and safely retire unnecessary applications.
 * **Outcome:** Minimize costs and enhance overall efficiency by discontinuing the use of unneeded applications, freeing up resources for critical operations.
 
-  **6. Retain**
+**6. Retain**
 * **Goal:** Identify and maintain applications that are not suitable for cloud migration.
 * **Strategy:** Utilize HPE GreenLake for Private Cloud Enterprise's tools for an in-depth risk and performance assessment to identify applications best kept off-cloud.
-* O**utcome:** Ensure sustained application performance and security by making informed decisions on which applications to keep in their current environment.
+* **Outcome:** Ensure sustained application performance and security by making informed decisions on which applications to keep in their current environment.
 
 **Pilots/POC**
 
