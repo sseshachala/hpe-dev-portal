@@ -80,7 +80,6 @@ We recommend that you test out some of these to get a sense as to how HPE GreenL
 * **Outcome:** Gather valuable metrics and insights for evaluating migration success and failure, paving the way for continuous improvement in migration strategies.
 
 **Conclusion**
-
 By embracing the structured approach of the HPE GreenLake for Private Cloud Enterprise 6Rs Migration Strategy, organizations can ensure a smooth and effective cloud migration journey. HPE GreenLake for Private Cloud Enterprise's approach delivers enhanced performance, scalability, and cost benefits, contributing to the overall success and growth of the business.
 
- For more insights and to stay updated on the remaining parts of our blog series, connect back to the [HPE Developer Community portal](https://developer.hpe.com/blog/). Don't miss out on the in-depth discussions and expert advice that will help you navigate your cloud migration journey successfully.
+For more insights and to stay updated on the remaining parts of our blog series, connect back to the [HPE Developer Community portal](https://developer.hpe.com/blog/). Don't miss out on the in-depth discussions and expert advice that will help you navigate your cloud migration journey successfully.
